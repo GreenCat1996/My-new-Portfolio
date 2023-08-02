@@ -7,14 +7,14 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/white01312/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/GreenCat1996/My-new-Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/white01312/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/GreenCat1996/My-new-Portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [white01312](https://github.com/white01312/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [GreenCat1996](https://github.com/GreenCat1996/My-new-Portfolio). Thanks!
 
 
 This project was built using these technologies.
