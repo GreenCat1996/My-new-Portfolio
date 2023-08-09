@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/My-new-Portfolio/static/css/main.2218cf51.css",
-    "main.js": "/My-new-Portfolio/static/js/main.08a8f1a9.js",
+    "main.js": "/My-new-Portfolio/static/js/main.092452ab.js",
     "static/js/787.1ed0c42c.chunk.js": "/My-new-Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Lukas_Muller.pdf": "/My-new-Portfolio/static/media/Lukas_Muller.99db0962cf2b0fb5379d.pdf",
+    "static/media/Lukas_Muller.pdf": "/My-new-Portfolio/static/media/Lukas_Muller.8fcc7ade4a8ec5136e4b.pdf",
     "static/media/logo.png": "/My-new-Portfolio/static/media/logo.1c87ce15e1a4a61f4a8e.png",
     "static/media/home-main.svg": "/My-new-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/My-new-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -24,11 +24,11 @@
     "static/media/pre.svg": "/My-new-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/My-new-Portfolio/index.html",
     "main.2218cf51.css.map": "/My-new-Portfolio/static/css/main.2218cf51.css.map",
-    "main.08a8f1a9.js.map": "/My-new-Portfolio/static/js/main.08a8f1a9.js.map",
+    "main.092452ab.js.map": "/My-new-Portfolio/static/js/main.092452ab.js.map",
     "787.1ed0c42c.chunk.js.map": "/My-new-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2218cf51.css",
-    "static/js/main.08a8f1a9.js"
+    "static/js/main.092452ab.js"
   ]
 }
